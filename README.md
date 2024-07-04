@@ -20,6 +20,12 @@ Por último, se procedió a realizar una revisión manual de los datos extraído
 
 El análisis de los datos utilizó cerca de 700 archivos como fuente de información. El análisis se realizó por medio de la librería Pandas. En este repositorio se puede encontrar un reporte en formato PDF como también en HTML.
 
+## Archivos Disponibles
+
+En el directorio files/json están todos los archivos que resultaron de la extracción de las tablas por medio de Azure, tanto para los reportes que fueron procesados correctamente como aquellos que dieron algún error. 
+
+También, en la carpeta raiz de este repositorio se encuentran los datos tanto en formato csv como en formato parquet para ser importandos a excel, powerbi o cualquier otro software de análisis de datos.
+
 ## Licencia
 
  Toda la información de este repositorio está disponible de forma abierta y puede ser usada por cualquier persona interesada. Solo pido que por favor no olvides dar los créditos si vas a usar estos resultados para algún trabajo, informe, etc. 😎
