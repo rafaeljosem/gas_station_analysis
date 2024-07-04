@@ -3,4 +3,5 @@
 tmp
 var
 .vscode
-files
+files/*
+!files/json
