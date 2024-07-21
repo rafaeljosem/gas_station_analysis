@@ -1,0 +1,5252 @@
+{
+    "api_version": "2023-07-31",
+    "model_id": "prebuilt-document",
+    "content": "aivepet\nAMVEPET, S.R.L -REP. DOMINICANA Reporte Fotogr\u00e1fico Ref. AMVEPET: 2023 03 169 Fecha de Inspecci\u00f3n: 30/03/2023 E/S TEXACO FRANCO BID\u00d3 AV. JUAN PABLO DUARTE No.65, SANTIAGO DE LOS CABALLEROS\nPrecios de los combustibles\nSEMANA DEL 25 AL 31\nDE MARZO DEL 2023\nRD$293.60\nRD$274.50\n= Gasolina\n= Gasolina\nPr\u00e9mium\nRegular\nRD$241.10\nVISTA PANOR\u00c1MICA DE LA ESTACI\u00d3N DE SERVICIO\n=\nGasol\n=\nRD$221.60\nGasell\nCOMPARACI\u00d3N DE PRECIOS PUBLICADOS POR MICM VS LOS NO PUBLICADOS POR LA E/S\nMEDICI\u00d3N DEL CORTE DE AGUA EN LOS TANQUES DE ALMACENAMIENTO\nPROCESO DE MUESTREO DE LOS TANQUES DE ALMACENAMIENTO\n0012406\nPROCESO DE MUESTREO DE LOS TANQUES DE ALMACENAMIENTO\nN\u00ba DE SELLO DE LAS MUESTRAS RETENIDAS",
+    "languages": [],
+    "pages": [
+        {
+            "page_number": 1,
+            "angle": 0.6535688042640686,
+            "width": 8.5,
+            "height": 11.0,
+            "unit": "inch",
+            "lines": [
+                {
+                    "content": "aivepet",
+                    "polygon": [
+                        {
+                            "x": 0.5062,
+                            "y": 0.7591
+                        },
+                        {
+                            "x": 1.0792,
+                            "y": 0.7639
+                        },
+                        {
+                            "x": 1.0792,
+                            "y": 0.9214
+                        },
+                        {
+                            "x": 0.5014,
+                            "y": 0.9167
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 0,
+                            "length": 7
+                        }
+                    ]
+                },
+                {
+                    "content": "AMVEPET, S.R.L -REP. DOMINICANA",
+                    "polygon": [
+                        {
+                            "x": 3.1326,
+                            "y": 0.2483
+                        },
+                        {
+                            "x": 5.6396,
+                            "y": 0.2769
+                        },
+                        {
+                            "x": 5.6396,
+                            "y": 0.4488
+                        },
+                        {
+                            "x": 3.1326,
+                            "y": 0.4201
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 8,
+                            "length": 31
+                        }
+                    ]
+                },
+                {
+                    "content": "Reporte Fotogr\u00e1fico",
+                    "polygon": [
+                        {
+                            "x": 3.6149,
+                            "y": 0.4631
+                        },
+                        {
+                            "x": 5.1621,
+                            "y": 0.4774
+                        },
+                        {
+                            "x": 5.1621,
+                            "y": 0.6636
+                        },
+                        {
+                            "x": 3.6149,
+                            "y": 0.6445
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 40,
+                            "length": 19
+                        }
+                    ]
+                },
+                {
+                    "content": "Ref. AMVEPET: 2023 03 169",
+                    "polygon": [
+                        {
+                            "x": 3.5719,
+                            "y": 0.6589
+                        },
+                        {
+                            "x": 5.1287,
+                            "y": 0.678
+                        },
+                        {
+                            "x": 5.1239,
+                            "y": 0.8307
+                        },
+                        {
+                            "x": 3.5671,
+                            "y": 0.8116
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 60,
+                            "length": 25
+                        }
+                    ]
+                },
+                {
+                    "content": "Fecha de Inspecci\u00f3n: 30/03/2023",
+                    "polygon": [
+                        {
+                            "x": 3.4,
+                            "y": 0.8403
+                        },
+                        {
+                            "x": 5.3149,
+                            "y": 0.8546
+                        },
+                        {
+                            "x": 5.3149,
+                            "y": 1.0122
+                        },
+                        {
+                            "x": 3.4,
+                            "y": 0.9978
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 86,
+                            "length": 31
+                        }
+                    ]
+                },
+                {
+                    "content": "E/S TEXACO FRANCO BID\u00d3",
+                    "polygon": [
+                        {
+                            "x": 3.4955,
+                            "y": 1.0122
+                        },
+                        {
+                            "x": 5.1955,
+                            "y": 1.0169
+                        },
+                        {
+                            "x": 5.1955,
+                            "y": 1.1793
+                        },
+                        {
+                            "x": 3.4955,
+                            "y": 1.1745
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 118,
+                            "length": 22
+                        }
+                    ]
+                },
+                {
+                    "content": "AV. JUAN PABLO DUARTE No.65, SANTIAGO DE LOS CABALLEROS",
+                    "polygon": [
+                        {
+                            "x": 2.3065,
+                            "y": 1.1697
+                        },
+                        {
+                            "x": 6.3654,
+                            "y": 1.2222
+                        },
+                        {
+                            "x": 6.3607,
+                            "y": 1.3845
+                        },
+                        {
+                            "x": 2.3065,
+                            "y": 1.3273
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 141,
+                            "length": 55
+                        }
+                    ]
+                },
+                {
+                    "content": "Precios de los combustibles",
+                    "polygon": [
+                        {
+                            "x": 5.5584,
+                            "y": 1.5612
+                        },
+                        {
+                            "x": 7.7646,
+                            "y": 1.5803
+                        },
+                        {
+                            "x": 7.7646,
+                            "y": 1.7951
+                        },
+                        {
+                            "x": 5.5584,
+                            "y": 1.7808
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 197,
+                            "length": 27
+                        }
+                    ]
+                },
+                {
+                    "content": "SEMANA DEL 25 AL 31",
+                    "polygon": [
+                        {
+                            "x": 6.7284,
+                            "y": 1.8859
+                        },
+                        {
+                            "x": 7.7646,
+                            "y": 1.8954
+                        },
+                        {
+                            "x": 7.7646,
+                            "y": 2.0291
+                        },
+                        {
+                            "x": 6.7284,
+                            "y": 2.0195
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 225,
+                            "length": 19
+                        }
+                    ]
+                },
+                {
+                    "content": "DE MARZO DEL 2023",
+                    "polygon": [
+                        {
+                            "x": 6.7666,
+                            "y": 2.0386
+                        },
+                        {
+                            "x": 7.7598,
+                            "y": 2.053
+                        },
+                        {
+                            "x": 7.7598,
+                            "y": 2.1819
+                        },
+                        {
+                            "x": 6.7666,
+                            "y": 2.1675
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 245,
+                            "length": 17
+                        }
+                    ]
+                },
+                {
+                    "content": "RD$293.60",
+                    "polygon": [
+                        {
+                            "x": 5.2098,
+                            "y": 2.3394
+                        },
+                        {
+                            "x": 6.2222,
+                            "y": 2.3442
+                        },
+                        {
+                            "x": 6.2222,
+                            "y": 2.5734
+                        },
+                        {
+                            "x": 5.2098,
+                            "y": 2.5686
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 263,
+                            "length": 9
+                        }
+                    ]
+                },
+                {
+                    "content": "RD$274.50",
+                    "polygon": [
+                        {
+                            "x": 6.6854,
+                            "y": 2.3633
+                        },
+                        {
+                            "x": 7.6691,
+                            "y": 2.3728
+                        },
+                        {
+                            "x": 7.6691,
+                            "y": 2.5877
+                        },
+                        {
+                            "x": 6.6854,
+                            "y": 2.5781
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 273,
+                            "length": 9
+                        }
+                    ]
+                },
+                {
+                    "content": "=",
+                    "polygon": [
+                        {
+                            "x": 5.2242,
+                            "y": 2.7166
+                        },
+                        {
+                            "x": 5.3244,
+                            "y": 2.7214
+                        },
+                        {
+                            "x": 5.3197,
+                            "y": 2.8312
+                        },
+                        {
+                            "x": 5.2194,
+                            "y": 2.8264
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 283,
+                            "length": 1
+                        }
+                    ]
+                },
+                {
+                    "content": "Gasolina",
+                    "polygon": [
+                        {
+                            "x": 5.8784,
+                            "y": 2.7309
+                        },
+                        {
+                            "x": 6.227,
+                            "y": 2.7309
+                        },
+                        {
+                            "x": 6.227,
+                            "y": 2.8359
+                        },
+                        {
+                            "x": 5.8784,
+                            "y": 2.8264
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 285,
+                            "length": 8
+                        }
+                    ]
+                },
+                {
+                    "content": "=",
+                    "polygon": [
+                        {
+                            "x": 6.6663,
+                            "y": 2.7357
+                        },
+                        {
+                            "x": 6.7522,
+                            "y": 2.7357
+                        },
+                        {
+                            "x": 6.7522,
+                            "y": 2.8503
+                        },
+                        {
+                            "x": 6.6615,
+                            "y": 2.8455
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 294,
+                            "length": 1
+                        }
+                    ]
+                },
+                {
+                    "content": "Gasolina",
+                    "polygon": [
+                        {
+                            "x": 7.3396,
+                            "y": 2.75
+                        },
+                        {
+                            "x": 7.6882,
+                            "y": 2.7548
+                        },
+                        {
+                            "x": 7.6882,
+                            "y": 2.8503
+                        },
+                        {
+                            "x": 7.3396,
+                            "y": 2.8407
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 296,
+                            "length": 8
+                        }
+                    ]
+                },
+                {
+                    "content": "Pr\u00e9mium",
+                    "polygon": [
+                        {
+                            "x": 5.864,
+                            "y": 2.855
+                        },
+                        {
+                            "x": 6.2222,
+                            "y": 2.8598
+                        },
+                        {
+                            "x": 6.2222,
+                            "y": 2.9601
+                        },
+                        {
+                            "x": 5.864,
+                            "y": 2.9505
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 305,
+                            "length": 7
+                        }
+                    ]
+                },
+                {
+                    "content": "Regular",
+                    "polygon": [
+                        {
+                            "x": 7.373,
+                            "y": 2.8741
+                        },
+                        {
+                            "x": 7.6691,
+                            "y": 2.8789
+                        },
+                        {
+                            "x": 7.6643,
+                            "y": 2.9839
+                        },
+                        {
+                            "x": 7.373,
+                            "y": 2.9696
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 313,
+                            "length": 7
+                        }
+                    ]
+                },
+                {
+                    "content": "RD$241.10",
+                    "polygon": [
+                        {
+                            "x": 5.2433,
+                            "y": 3.3468
+                        },
+                        {
+                            "x": 6.1601,
+                            "y": 3.3516
+                        },
+                        {
+                            "x": 6.1553,
+                            "y": 3.5616
+                        },
+                        {
+                            "x": 5.2385,
+                            "y": 3.5569
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 321,
+                            "length": 9
+                        }
+                    ]
+                },
+                {
+                    "content": "VISTA PANOR\u00c1MICA DE LA ESTACI\u00d3N DE",
+                    "polygon": [
+                        {
+                            "x": 0.8978,
+                            "y": 3.9054
+                        },
+                        {
+                            "x": 3.6579,
+                            "y": 3.9293
+                        },
+                        {
+                            "x": 3.6579,
+                            "y": 4.082
+                        },
+                        {
+                            "x": 0.8978,
+                            "y": 4.0534
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 331,
+                            "length": 34
+                        }
+                    ]
+                },
+                {
+                    "content": "SERVICIO",
+                    "polygon": [
+                        {
+                            "x": 1.9483,
+                            "y": 4.0916
+                        },
+                        {
+                            "x": 2.5882,
+                            "y": 4.0964
+                        },
+                        {
+                            "x": 2.5834,
+                            "y": 4.2205
+                        },
+                        {
+                            "x": 1.9483,
+                            "y": 4.2157
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 366,
+                            "length": 8
+                        }
+                    ]
+                },
+                {
+                    "content": "=",
+                    "polygon": [
+                        {
+                            "x": 5.2051,
+                            "y": 3.7049
+                        },
+                        {
+                            "x": 5.3053,
+                            "y": 3.7049
+                        },
+                        {
+                            "x": 5.3053,
+                            "y": 3.8099
+                        },
+                        {
+                            "x": 5.2051,
+                            "y": 3.8099
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 375,
+                            "length": 1
+                        }
+                    ]
+                },
+                {
+                    "content": "Gasol",
+                    "polygon": [
+                        {
+                            "x": 5.9596,
+                            "y": 3.7096
+                        },
+                        {
+                            "x": 6.2126,
+                            "y": 3.7144
+                        },
+                        {
+                            "x": 6.2126,
+                            "y": 3.8147
+                        },
+                        {
+                            "x": 5.9596,
+                            "y": 3.8099
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 377,
+                            "length": 5
+                        }
+                    ]
+                },
+                {
+                    "content": "=",
+                    "polygon": [
+                        {
+                            "x": 6.652,
+                            "y": 3.724
+                        },
+                        {
+                            "x": 6.7427,
+                            "y": 3.724
+                        },
+                        {
+                            "x": 6.7427,
+                            "y": 3.8242
+                        },
+                        {
+                            "x": 6.652,
+                            "y": 3.8242
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 383,
+                            "length": 1
+                        }
+                    ]
+                },
+                {
+                    "content": "RD$221.60",
+                    "polygon": [
+                        {
+                            "x": 6.6854,
+                            "y": 3.3659
+                        },
+                        {
+                            "x": 7.6357,
+                            "y": 3.3707
+                        },
+                        {
+                            "x": 7.6357,
+                            "y": 3.5807
+                        },
+                        {
+                            "x": 6.6854,
+                            "y": 3.5712
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 385,
+                            "length": 9
+                        }
+                    ]
+                },
+                {
+                    "content": "Gasell",
+                    "polygon": [
+                        {
+                            "x": 7.4065,
+                            "y": 3.724
+                        },
+                        {
+                            "x": 7.6691,
+                            "y": 3.7287
+                        },
+                        {
+                            "x": 7.6691,
+                            "y": 3.829
+                        },
+                        {
+                            "x": 7.4112,
+                            "y": 3.8242
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 395,
+                            "length": 6
+                        }
+                    ]
+                },
+                {
+                    "content": "COMPARACI\u00d3N DE PRECIOS PUBLICADOS POR",
+                    "polygon": [
+                        {
+                            "x": 4.8039,
+                            "y": 3.9722
+                        },
+                        {
+                            "x": 7.7646,
+                            "y": 4.0056
+                        },
+                        {
+                            "x": 7.7646,
+                            "y": 4.1489
+                        },
+                        {
+                            "x": 4.8039,
+                            "y": 4.1107
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 402,
+                            "length": 37
+                        }
+                    ]
+                },
+                {
+                    "content": "MICM VS LOS NO PUBLICADOS POR LA E/S",
+                    "polygon": [
+                        {
+                            "x": 4.9424,
+                            "y": 4.1345
+                        },
+                        {
+                            "x": 7.6309,
+                            "y": 4.1584
+                        },
+                        {
+                            "x": 7.6261,
+                            "y": 4.2921
+                        },
+                        {
+                            "x": 4.9424,
+                            "y": 4.2635
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 440,
+                            "length": 36
+                        }
+                    ]
+                },
+                {
+                    "content": "MEDICI\u00d3N DEL CORTE DE AGUA EN LOS",
+                    "polygon": [
+                        {
+                            "x": 0.85,
+                            "y": 7.0517
+                        },
+                        {
+                            "x": 3.5242,
+                            "y": 7.0851
+                        },
+                        {
+                            "x": 3.5242,
+                            "y": 7.2283
+                        },
+                        {
+                            "x": 0.85,
+                            "y": 7.1997
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 477,
+                            "length": 33
+                        }
+                    ]
+                },
+                {
+                    "content": "TANQUES DE ALMACENAMIENTO",
+                    "polygon": [
+                        {
+                            "x": 1.0935,
+                            "y": 7.2235
+                        },
+                        {
+                            "x": 3.2854,
+                            "y": 7.2474
+                        },
+                        {
+                            "x": 3.2854,
+                            "y": 7.3859
+                        },
+                        {
+                            "x": 1.0935,
+                            "y": 7.362
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 511,
+                            "length": 25
+                        }
+                    ]
+                },
+                {
+                    "content": "PROCESO DE MUESTREO DE LOS TANQUES DE",
+                    "polygon": [
+                        {
+                            "x": 4.5986,
+                            "y": 7.1471
+                        },
+                        {
+                            "x": 7.7407,
+                            "y": 7.1806
+                        },
+                        {
+                            "x": 7.736,
+                            "y": 7.3238
+                        },
+                        {
+                            "x": 4.5986,
+                            "y": 7.2856
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 537,
+                            "length": 37
+                        }
+                    ]
+                },
+                {
+                    "content": "ALMACENAMIENTO",
+                    "polygon": [
+                        {
+                            "x": 5.525,
+                            "y": 7.3238
+                        },
+                        {
+                            "x": 6.8096,
+                            "y": 7.3286
+                        },
+                        {
+                            "x": 6.8048,
+                            "y": 7.4622
+                        },
+                        {
+                            "x": 5.525,
+                            "y": 7.4527
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 575,
+                            "length": 14
+                        }
+                    ]
+                },
+                {
+                    "content": "0012406",
+                    "polygon": [
+                        {
+                            "x": 6.2031,
+                            "y": 8.9423
+                        },
+                        {
+                            "x": 6.9003,
+                            "y": 8.9805
+                        },
+                        {
+                            "x": 6.8955,
+                            "y": 9.0855
+                        },
+                        {
+                            "x": 6.1983,
+                            "y": 9.0378
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 590,
+                            "length": 7
+                        }
+                    ]
+                },
+                {
+                    "content": "PROCESO DE MUESTREO DE LOS TANQUES DE",
+                    "polygon": [
+                        {
+                            "x": 0.6542,
+                            "y": 10.1788
+                        },
+                        {
+                            "x": 3.8011,
+                            "y": 10.2313
+                        },
+                        {
+                            "x": 3.7963,
+                            "y": 10.3746
+                        },
+                        {
+                            "x": 0.6542,
+                            "y": 10.3173
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 598,
+                            "length": 37
+                        }
+                    ]
+                },
+                {
+                    "content": "ALMACENAMIENTO",
+                    "polygon": [
+                        {
+                            "x": 1.5758,
+                            "y": 10.3602
+                        },
+                        {
+                            "x": 2.8699,
+                            "y": 10.3793
+                        },
+                        {
+                            "x": 2.8652,
+                            "y": 10.5082
+                        },
+                        {
+                            "x": 1.5758,
+                            "y": 10.4892
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 636,
+                            "length": 14
+                        }
+                    ]
+                },
+                {
+                    "content": "N\u00ba DE SELLO DE LAS MUESTRAS",
+                    "polygon": [
+                        {
+                            "x": 4.7562,
+                            "y": 10.2886
+                        },
+                        {
+                            "x": 6.9385,
+                            "y": 10.3173
+                        },
+                        {
+                            "x": 6.9385,
+                            "y": 10.451
+                        },
+                        {
+                            "x": 4.7562,
+                            "y": 10.4223
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 651,
+                            "length": 27
+                        }
+                    ]
+                },
+                {
+                    "content": "RETENIDAS",
+                    "polygon": [
+                        {
+                            "x": 5.6157,
+                            "y": 10.451
+                        },
+                        {
+                            "x": 6.4323,
+                            "y": 10.451
+                        },
+                        {
+                            "x": 6.4323,
+                            "y": 10.6133
+                        },
+                        {
+                            "x": 5.6157,
+                            "y": 10.6085
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 679,
+                            "length": 9
+                        }
+                    ]
+                }
+            ],
+            "words": [
+                {
+                    "content": "aivepet",
+                    "polygon": [
+                        {
+                            "x": 0.5157,
+                            "y": 0.7591
+                        },
+                        {
+                            "x": 1.084,
+                            "y": 0.7687
+                        },
+                        {
+                            "x": 1.0792,
+                            "y": 0.9262
+                        },
+                        {
+                            "x": 0.511,
+                            "y": 0.9167
+                        }
+                    ],
+                    "span": {
+                        "offset": 0,
+                        "length": 7
+                    },
+                    "confidence": 0.973
+                },
+                {
+                    "content": "AMVEPET,",
+                    "polygon": [
+                        {
+                            "x": 3.1565,
+                            "y": 0.253
+                        },
+                        {
+                            "x": 3.7725,
+                            "y": 0.2578
+                        },
+                        {
+                            "x": 3.7725,
+                            "y": 0.4345
+                        },
+                        {
+                            "x": 3.1612,
+                            "y": 0.4249
+                        }
+                    ],
+                    "span": {
+                        "offset": 8,
+                        "length": 8
+                    },
+                    "confidence": 0.634
+                },
+                {
+                    "content": "S.R.L",
+                    "polygon": [
+                        {
+                            "x": 3.8059,
+                            "y": 0.2578
+                        },
+                        {
+                            "x": 4.1258,
+                            "y": 0.2626
+                        },
+                        {
+                            "x": 4.1258,
+                            "y": 0.4392
+                        },
+                        {
+                            "x": 3.8059,
+                            "y": 0.4345
+                        }
+                    ],
+                    "span": {
+                        "offset": 17,
+                        "length": 5
+                    },
+                    "confidence": 0.988
+                },
+                {
+                    "content": "-REP.",
+                    "polygon": [
+                        {
+                            "x": 4.1593,
+                            "y": 0.2626
+                        },
+                        {
+                            "x": 4.589,
+                            "y": 0.2674
+                        },
+                        {
+                            "x": 4.589,
+                            "y": 0.444
+                        },
+                        {
+                            "x": 4.1593,
+                            "y": 0.4392
+                        }
+                    ],
+                    "span": {
+                        "offset": 23,
+                        "length": 5
+                    },
+                    "confidence": 0.849
+                },
+                {
+                    "content": "DOMINICANA",
+                    "polygon": [
+                        {
+                            "x": 4.6225,
+                            "y": 0.2674
+                        },
+                        {
+                            "x": 5.611,
+                            "y": 0.2865
+                        },
+                        {
+                            "x": 5.611,
+                            "y": 0.4488
+                        },
+                        {
+                            "x": 4.6272,
+                            "y": 0.444
+                        }
+                    ],
+                    "span": {
+                        "offset": 29,
+                        "length": 10
+                    },
+                    "confidence": 0.961
+                },
+                {
+                    "content": "Reporte",
+                    "polygon": [
+                        {
+                            "x": 3.6197,
+                            "y": 0.4631
+                        },
+                        {
+                            "x": 4.164,
+                            "y": 0.4679
+                        },
+                        {
+                            "x": 4.164,
+                            "y": 0.6589
+                        },
+                        {
+                            "x": 3.6197,
+                            "y": 0.6445
+                        }
+                    ],
+                    "span": {
+                        "offset": 40,
+                        "length": 7
+                    },
+                    "confidence": 0.993
+                },
+                {
+                    "content": "Fotogr\u00e1fico",
+                    "polygon": [
+                        {
+                            "x": 4.2022,
+                            "y": 0.4679
+                        },
+                        {
+                            "x": 5.143,
+                            "y": 0.4822
+                        },
+                        {
+                            "x": 5.143,
+                            "y": 0.6636
+                        },
+                        {
+                            "x": 4.2022,
+                            "y": 0.6589
+                        }
+                    ],
+                    "span": {
+                        "offset": 48,
+                        "length": 11
+                    },
+                    "confidence": 0.993
+                },
+                {
+                    "content": "Ref.",
+                    "polygon": [
+                        {
+                            "x": 3.5719,
+                            "y": 0.6589
+                        },
+                        {
+                            "x": 3.8059,
+                            "y": 0.6636
+                        },
+                        {
+                            "x": 3.8011,
+                            "y": 0.8164
+                        },
+                        {
+                            "x": 3.5719,
+                            "y": 0.8116
+                        }
+                    ],
+                    "span": {
+                        "offset": 60,
+                        "length": 4
+                    },
+                    "confidence": 0.989
+                },
+                {
+                    "content": "AMVEPET:",
+                    "polygon": [
+                        {
+                            "x": 3.8346,
+                            "y": 0.6636
+                        },
+                        {
+                            "x": 4.4028,
+                            "y": 0.6684
+                        },
+                        {
+                            "x": 4.4028,
+                            "y": 0.826
+                        },
+                        {
+                            "x": 3.8298,
+                            "y": 0.8164
+                        }
+                    ],
+                    "span": {
+                        "offset": 65,
+                        "length": 8
+                    },
+                    "confidence": 0.643
+                },
+                {
+                    "content": "2023",
+                    "polygon": [
+                        {
+                            "x": 4.4315,
+                            "y": 0.6684
+                        },
+                        {
+                            "x": 4.6846,
+                            "y": 0.6732
+                        },
+                        {
+                            "x": 4.6846,
+                            "y": 0.8307
+                        },
+                        {
+                            "x": 4.4315,
+                            "y": 0.826
+                        }
+                    ],
+                    "span": {
+                        "offset": 74,
+                        "length": 4
+                    },
+                    "confidence": 0.985
+                },
+                {
+                    "content": "03",
+                    "polygon": [
+                        {
+                            "x": 4.718,
+                            "y": 0.6732
+                        },
+                        {
+                            "x": 4.866,
+                            "y": 0.678
+                        },
+                        {
+                            "x": 4.866,
+                            "y": 0.8307
+                        },
+                        {
+                            "x": 4.7132,
+                            "y": 0.8307
+                        }
+                    ],
+                    "span": {
+                        "offset": 79,
+                        "length": 2
+                    },
+                    "confidence": 0.995
+                },
+                {
+                    "content": "169",
+                    "polygon": [
+                        {
+                            "x": 4.8994,
+                            "y": 0.678
+                        },
+                        {
+                            "x": 5.1239,
+                            "y": 0.678
+                        },
+                        {
+                            "x": 5.1239,
+                            "y": 0.8307
+                        },
+                        {
+                            "x": 4.8994,
+                            "y": 0.8307
+                        }
+                    ],
+                    "span": {
+                        "offset": 82,
+                        "length": 3
+                    },
+                    "confidence": 0.962
+                },
+                {
+                    "content": "Fecha",
+                    "polygon": [
+                        {
+                            "x": 3.4048,
+                            "y": 0.8403
+                        },
+                        {
+                            "x": 3.7343,
+                            "y": 0.8403
+                        },
+                        {
+                            "x": 3.7343,
+                            "y": 1.0026
+                        },
+                        {
+                            "x": 3.4048,
+                            "y": 0.9931
+                        }
+                    ],
+                    "span": {
+                        "offset": 86,
+                        "length": 5
+                    },
+                    "confidence": 0.994
+                },
+                {
+                    "content": "de",
+                    "polygon": [
+                        {
+                            "x": 3.7677,
+                            "y": 0.8451
+                        },
+                        {
+                            "x": 3.8919,
+                            "y": 0.8451
+                        },
+                        {
+                            "x": 3.8919,
+                            "y": 1.0074
+                        },
+                        {
+                            "x": 3.7677,
+                            "y": 1.0026
+                        }
+                    ],
+                    "span": {
+                        "offset": 92,
+                        "length": 2
+                    },
+                    "confidence": 0.995
+                },
+                {
+                    "content": "Inspecci\u00f3n:",
+                    "polygon": [
+                        {
+                            "x": 3.9205,
+                            "y": 0.8451
+                        },
+                        {
+                            "x": 4.6559,
+                            "y": 0.8498
+                        },
+                        {
+                            "x": 4.6559,
+                            "y": 1.0122
+                        },
+                        {
+                            "x": 3.9205,
+                            "y": 1.0074
+                        }
+                    ],
+                    "span": {
+                        "offset": 95,
+                        "length": 11
+                    },
+                    "confidence": 0.888
+                },
+                {
+                    "content": "30/03/2023",
+                    "polygon": [
+                        {
+                            "x": 4.6846,
+                            "y": 0.8498
+                        },
+                        {
+                            "x": 5.3149,
+                            "y": 0.8594
+                        },
+                        {
+                            "x": 5.3149,
+                            "y": 1.0074
+                        },
+                        {
+                            "x": 4.6846,
+                            "y": 1.0122
+                        }
+                    ],
+                    "span": {
+                        "offset": 107,
+                        "length": 10
+                    },
+                    "confidence": 0.984
+                },
+                {
+                    "content": "E/S",
+                    "polygon": [
+                        {
+                            "x": 3.5098,
+                            "y": 1.0169
+                        },
+                        {
+                            "x": 3.7152,
+                            "y": 1.0169
+                        },
+                        {
+                            "x": 3.7104,
+                            "y": 1.1793
+                        },
+                        {
+                            "x": 3.5051,
+                            "y": 1.1745
+                        }
+                    ],
+                    "span": {
+                        "offset": 118,
+                        "length": 3
+                    },
+                    "confidence": 0.989
+                },
+                {
+                    "content": "TEXACO",
+                    "polygon": [
+                        {
+                            "x": 3.7486,
+                            "y": 1.0169
+                        },
+                        {
+                            "x": 4.2404,
+                            "y": 1.0169
+                        },
+                        {
+                            "x": 4.2357,
+                            "y": 1.1793
+                        },
+                        {
+                            "x": 3.7438,
+                            "y": 1.1793
+                        }
+                    ],
+                    "span": {
+                        "offset": 122,
+                        "length": 6
+                    },
+                    "confidence": 0.993
+                },
+                {
+                    "content": "FRANCO",
+                    "polygon": [
+                        {
+                            "x": 4.2691,
+                            "y": 1.0169
+                        },
+                        {
+                            "x": 4.7848,
+                            "y": 1.0217
+                        },
+                        {
+                            "x": 4.7801,
+                            "y": 1.184
+                        },
+                        {
+                            "x": 4.2643,
+                            "y": 1.1793
+                        }
+                    ],
+                    "span": {
+                        "offset": 129,
+                        "length": 6
+                    },
+                    "confidence": 0.993
+                },
+                {
+                    "content": "BID\u00d3",
+                    "polygon": [
+                        {
+                            "x": 4.8278,
+                            "y": 1.0217
+                        },
+                        {
+                            "x": 5.1669,
+                            "y": 1.0217
+                        },
+                        {
+                            "x": 5.1621,
+                            "y": 1.184
+                        },
+                        {
+                            "x": 4.823,
+                            "y": 1.184
+                        }
+                    ],
+                    "span": {
+                        "offset": 136,
+                        "length": 4
+                    },
+                    "confidence": 0.97
+                },
+                {
+                    "content": "AV.",
+                    "polygon": [
+                        {
+                            "x": 2.3256,
+                            "y": 1.1745
+                        },
+                        {
+                            "x": 2.5261,
+                            "y": 1.1745
+                        },
+                        {
+                            "x": 2.5261,
+                            "y": 1.3368
+                        },
+                        {
+                            "x": 2.3256,
+                            "y": 1.332
+                        }
+                    ],
+                    "span": {
+                        "offset": 141,
+                        "length": 3
+                    },
+                    "confidence": 0.995
+                },
+                {
+                    "content": "JUAN",
+                    "polygon": [
+                        {
+                            "x": 2.5548,
+                            "y": 1.1745
+                        },
+                        {
+                            "x": 2.8699,
+                            "y": 1.1793
+                        },
+                        {
+                            "x": 2.8699,
+                            "y": 1.3416
+                        },
+                        {
+                            "x": 2.5548,
+                            "y": 1.3368
+                        }
+                    ],
+                    "span": {
+                        "offset": 145,
+                        "length": 4
+                    },
+                    "confidence": 0.986
+                },
+                {
+                    "content": "PABLO",
+                    "polygon": [
+                        {
+                            "x": 2.9129,
+                            "y": 1.1793
+                        },
+                        {
+                            "x": 3.3236,
+                            "y": 1.1888
+                        },
+                        {
+                            "x": 3.3236,
+                            "y": 1.3464
+                        },
+                        {
+                            "x": 2.9129,
+                            "y": 1.3416
+                        }
+                    ],
+                    "span": {
+                        "offset": 150,
+                        "length": 5
+                    },
+                    "confidence": 0.994
+                },
+                {
+                    "content": "DUARTE",
+                    "polygon": [
+                        {
+                            "x": 3.3666,
+                            "y": 1.1888
+                        },
+                        {
+                            "x": 3.8728,
+                            "y": 1.1936
+                        },
+                        {
+                            "x": 3.868,
+                            "y": 1.3559
+                        },
+                        {
+                            "x": 3.3666,
+                            "y": 1.3464
+                        }
+                    ],
+                    "span": {
+                        "offset": 156,
+                        "length": 6
+                    },
+                    "confidence": 0.993
+                },
+                {
+                    "content": "No.65,",
+                    "polygon": [
+                        {
+                            "x": 3.9014,
+                            "y": 1.1936
+                        },
+                        {
+                            "x": 4.2691,
+                            "y": 1.1984
+                        },
+                        {
+                            "x": 4.2691,
+                            "y": 1.3607
+                        },
+                        {
+                            "x": 3.9014,
+                            "y": 1.3559
+                        }
+                    ],
+                    "span": {
+                        "offset": 163,
+                        "length": 6
+                    },
+                    "confidence": 0.992
+                },
+                {
+                    "content": "SANTIAGO",
+                    "polygon": [
+                        {
+                            "x": 4.3025,
+                            "y": 1.1984
+                        },
+                        {
+                            "x": 4.9233,
+                            "y": 1.2079
+                        },
+                        {
+                            "x": 4.9185,
+                            "y": 1.3702
+                        },
+                        {
+                            "x": 4.3025,
+                            "y": 1.3607
+                        }
+                    ],
+                    "span": {
+                        "offset": 170,
+                        "length": 8
+                    },
+                    "confidence": 0.974
+                },
+                {
+                    "content": "DE",
+                    "polygon": [
+                        {
+                            "x": 4.952,
+                            "y": 1.2079
+                        },
+                        {
+                            "x": 5.1239,
+                            "y": 1.2079
+                        },
+                        {
+                            "x": 5.1191,
+                            "y": 1.3702
+                        },
+                        {
+                            "x": 4.952,
+                            "y": 1.3702
+                        }
+                    ],
+                    "span": {
+                        "offset": 179,
+                        "length": 2
+                    },
+                    "confidence": 0.975
+                },
+                {
+                    "content": "LOS",
+                    "polygon": [
+                        {
+                            "x": 5.1525,
+                            "y": 1.2127
+                        },
+                        {
+                            "x": 5.4152,
+                            "y": 1.2127
+                        },
+                        {
+                            "x": 5.4152,
+                            "y": 1.375
+                        },
+                        {
+                            "x": 5.1525,
+                            "y": 1.3702
+                        }
+                    ],
+                    "span": {
+                        "offset": 182,
+                        "length": 3
+                    },
+                    "confidence": 0.989
+                },
+                {
+                    "content": "CABALLEROS",
+                    "polygon": [
+                        {
+                            "x": 5.4486,
+                            "y": 1.2127
+                        },
+                        {
+                            "x": 6.3511,
+                            "y": 1.227
+                        },
+                        {
+                            "x": 6.3511,
+                            "y": 1.3893
+                        },
+                        {
+                            "x": 5.4438,
+                            "y": 1.375
+                        }
+                    ],
+                    "span": {
+                        "offset": 186,
+                        "length": 10
+                    },
+                    "confidence": 0.987
+                },
+                {
+                    "content": "Precios",
+                    "polygon": [
+                        {
+                            "x": 5.5632,
+                            "y": 1.5612
+                        },
+                        {
+                            "x": 6.141,
+                            "y": 1.5707
+                        },
+                        {
+                            "x": 6.1362,
+                            "y": 1.7904
+                        },
+                        {
+                            "x": 5.5584,
+                            "y": 1.7856
+                        }
+                    ],
+                    "span": {
+                        "offset": 197,
+                        "length": 7
+                    },
+                    "confidence": 0.989
+                },
+                {
+                    "content": "de",
+                    "polygon": [
+                        {
+                            "x": 6.184,
+                            "y": 1.5707
+                        },
+                        {
+                            "x": 6.3654,
+                            "y": 1.5755
+                        },
+                        {
+                            "x": 6.3654,
+                            "y": 1.7951
+                        },
+                        {
+                            "x": 6.1792,
+                            "y": 1.7904
+                        }
+                    ],
+                    "span": {
+                        "offset": 205,
+                        "length": 2
+                    },
+                    "confidence": 0.995
+                },
+                {
+                    "content": "los",
+                    "polygon": [
+                        {
+                            "x": 6.4084,
+                            "y": 1.5755
+                        },
+                        {
+                            "x": 6.6376,
+                            "y": 1.5755
+                        },
+                        {
+                            "x": 6.6329,
+                            "y": 1.7951
+                        },
+                        {
+                            "x": 6.4084,
+                            "y": 1.7951
+                        }
+                    ],
+                    "span": {
+                        "offset": 208,
+                        "length": 3
+                    },
+                    "confidence": 0.995
+                },
+                {
+                    "content": "combustibles",
+                    "polygon": [
+                        {
+                            "x": 6.6806,
+                            "y": 1.5755
+                        },
+                        {
+                            "x": 7.7598,
+                            "y": 1.5898
+                        },
+                        {
+                            "x": 7.7598,
+                            "y": 1.7951
+                        },
+                        {
+                            "x": 6.6758,
+                            "y": 1.7951
+                        }
+                    ],
+                    "span": {
+                        "offset": 212,
+                        "length": 12
+                    },
+                    "confidence": 0.962
+                },
+                {
+                    "content": "SEMANA",
+                    "polygon": [
+                        {
+                            "x": 6.7379,
+                            "y": 1.8859
+                        },
+                        {
+                            "x": 7.1486,
+                            "y": 1.8954
+                        },
+                        {
+                            "x": 7.1438,
+                            "y": 2.0148
+                        },
+                        {
+                            "x": 6.7379,
+                            "y": 2.0195
+                        }
+                    ],
+                    "span": {
+                        "offset": 225,
+                        "length": 6
+                    },
+                    "confidence": 0.983
+                },
+                {
+                    "content": "DEL",
+                    "polygon": [
+                        {
+                            "x": 7.1725,
+                            "y": 1.8954
+                        },
+                        {
+                            "x": 7.373,
+                            "y": 1.8954
+                        },
+                        {
+                            "x": 7.3683,
+                            "y": 2.0195
+                        },
+                        {
+                            "x": 7.1725,
+                            "y": 2.0148
+                        }
+                    ],
+                    "span": {
+                        "offset": 232,
+                        "length": 3
+                    },
+                    "confidence": 0.936
+                },
+                {
+                    "content": "25",
+                    "polygon": [
+                        {
+                            "x": 7.3969,
+                            "y": 1.9002
+                        },
+                        {
+                            "x": 7.5067,
+                            "y": 1.9002
+                        },
+                        {
+                            "x": 7.502,
+                            "y": 2.0243
+                        },
+                        {
+                            "x": 7.3969,
+                            "y": 2.0195
+                        }
+                    ],
+                    "span": {
+                        "offset": 236,
+                        "length": 2
+                    },
+                    "confidence": 0.951
+                },
+                {
+                    "content": "AL",
+                    "polygon": [
+                        {
+                            "x": 7.5306,
+                            "y": 1.9002
+                        },
+                        {
+                            "x": 7.6452,
+                            "y": 1.9002
+                        },
+                        {
+                            "x": 7.6452,
+                            "y": 2.0291
+                        },
+                        {
+                            "x": 7.5258,
+                            "y": 2.0243
+                        }
+                    ],
+                    "span": {
+                        "offset": 239,
+                        "length": 2
+                    },
+                    "confidence": 0.99
+                },
+                {
+                    "content": "31",
+                    "polygon": [
+                        {
+                            "x": 7.6739,
+                            "y": 1.9002
+                        },
+                        {
+                            "x": 7.7646,
+                            "y": 1.8954
+                        },
+                        {
+                            "x": 7.7646,
+                            "y": 2.0339
+                        },
+                        {
+                            "x": 7.6691,
+                            "y": 2.0291
+                        }
+                    ],
+                    "span": {
+                        "offset": 242,
+                        "length": 2
+                    },
+                    "confidence": 0.883
+                },
+                {
+                    "content": "DE",
+                    "polygon": [
+                        {
+                            "x": 6.7761,
+                            "y": 2.0434
+                        },
+                        {
+                            "x": 6.9051,
+                            "y": 2.0434
+                        },
+                        {
+                            "x": 6.9003,
+                            "y": 2.1771
+                        },
+                        {
+                            "x": 6.7713,
+                            "y": 2.1723
+                        }
+                    ],
+                    "span": {
+                        "offset": 245,
+                        "length": 2
+                    },
+                    "confidence": 0.995
+                },
+                {
+                    "content": "MARZO",
+                    "polygon": [
+                        {
+                            "x": 6.9289,
+                            "y": 2.0482
+                        },
+                        {
+                            "x": 7.2823,
+                            "y": 2.053
+                        },
+                        {
+                            "x": 7.2823,
+                            "y": 2.1819
+                        },
+                        {
+                            "x": 6.9242,
+                            "y": 2.1771
+                        }
+                    ],
+                    "span": {
+                        "offset": 248,
+                        "length": 5
+                    },
+                    "confidence": 0.878
+                },
+                {
+                    "content": "DEL",
+                    "polygon": [
+                        {
+                            "x": 7.311,
+                            "y": 2.053
+                        },
+                        {
+                            "x": 7.5115,
+                            "y": 2.053
+                        },
+                        {
+                            "x": 7.5115,
+                            "y": 2.1819
+                        },
+                        {
+                            "x": 7.3062,
+                            "y": 2.1819
+                        }
+                    ],
+                    "span": {
+                        "offset": 254,
+                        "length": 3
+                    },
+                    "confidence": 0.919
+                },
+                {
+                    "content": "2023",
+                    "polygon": [
+                        {
+                            "x": 7.5402,
+                            "y": 2.053
+                        },
+                        {
+                            "x": 7.7598,
+                            "y": 2.0577
+                        },
+                        {
+                            "x": 7.7551,
+                            "y": 2.1866
+                        },
+                        {
+                            "x": 7.5354,
+                            "y": 2.1819
+                        }
+                    ],
+                    "span": {
+                        "offset": 258,
+                        "length": 4
+                    },
+                    "confidence": 0.978
+                },
+                {
+                    "content": "RD$293.60",
+                    "polygon": [
+                        {
+                            "x": 5.2194,
+                            "y": 2.3442
+                        },
+                        {
+                            "x": 6.2031,
+                            "y": 2.349
+                        },
+                        {
+                            "x": 6.2031,
+                            "y": 2.5781
+                        },
+                        {
+                            "x": 5.2146,
+                            "y": 2.5781
+                        }
+                    ],
+                    "span": {
+                        "offset": 263,
+                        "length": 9
+                    },
+                    "confidence": 0.995
+                },
+                {
+                    "content": "RD$274.50",
+                    "polygon": [
+                        {
+                            "x": 6.6854,
+                            "y": 2.3681
+                        },
+                        {
+                            "x": 7.6596,
+                            "y": 2.3776
+                        },
+                        {
+                            "x": 7.6548,
+                            "y": 2.5877
+                        },
+                        {
+                            "x": 6.6902,
+                            "y": 2.5781
+                        }
+                    ],
+                    "span": {
+                        "offset": 273,
+                        "length": 9
+                    },
+                    "confidence": 0.995
+                },
+                {
+                    "content": "=",
+                    "polygon": [
+                        {
+                            "x": 5.2242,
+                            "y": 2.7166
+                        },
+                        {
+                            "x": 5.2958,
+                            "y": 2.7214
+                        },
+                        {
+                            "x": 5.291,
+                            "y": 2.8312
+                        },
+                        {
+                            "x": 5.2194,
+                            "y": 2.8264
+                        }
+                    ],
+                    "span": {
+                        "offset": 283,
+                        "length": 1
+                    },
+                    "confidence": 0.94
+                },
+                {
+                    "content": "Gasolina",
+                    "polygon": [
+                        {
+                            "x": 5.8831,
+                            "y": 2.7357
+                        },
+                        {
+                            "x": 6.2317,
+                            "y": 2.7357
+                        },
+                        {
+                            "x": 6.227,
+                            "y": 2.8407
+                        },
+                        {
+                            "x": 5.8831,
+                            "y": 2.8264
+                        }
+                    ],
+                    "span": {
+                        "offset": 285,
+                        "length": 8
+                    },
+                    "confidence": 0.743
+                },
+                {
+                    "content": "=",
+                    "polygon": [
+                        {
+                            "x": 6.6615,
+                            "y": 2.7357
+                        },
+                        {
+                            "x": 6.7379,
+                            "y": 2.7357
+                        },
+                        {
+                            "x": 6.7331,
+                            "y": 2.8503
+                        },
+                        {
+                            "x": 6.6615,
+                            "y": 2.8455
+                        }
+                    ],
+                    "span": {
+                        "offset": 294,
+                        "length": 1
+                    },
+                    "confidence": 0.948
+                },
+                {
+                    "content": "Gasolina",
+                    "polygon": [
+                        {
+                            "x": 7.3444,
+                            "y": 2.7548
+                        },
+                        {
+                            "x": 7.6834,
+                            "y": 2.7548
+                        },
+                        {
+                            "x": 7.6834,
+                            "y": 2.8503
+                        },
+                        {
+                            "x": 7.3444,
+                            "y": 2.8407
+                        }
+                    ],
+                    "span": {
+                        "offset": 296,
+                        "length": 8
+                    },
+                    "confidence": 0.753
+                },
+                {
+                    "content": "Pr\u00e9mium",
+                    "polygon": [
+                        {
+                            "x": 5.8688,
+                            "y": 2.8598
+                        },
+                        {
+                            "x": 6.1888,
+                            "y": 2.8598
+                        },
+                        {
+                            "x": 6.1888,
+                            "y": 2.9601
+                        },
+                        {
+                            "x": 5.8688,
+                            "y": 2.9505
+                        }
+                    ],
+                    "span": {
+                        "offset": 305,
+                        "length": 7
+                    },
+                    "confidence": 0.566
+                },
+                {
+                    "content": "Regular",
+                    "polygon": [
+                        {
+                            "x": 7.373,
+                            "y": 2.8741
+                        },
+                        {
+                            "x": 7.6643,
+                            "y": 2.8837
+                        },
+                        {
+                            "x": 7.6643,
+                            "y": 2.9839
+                        },
+                        {
+                            "x": 7.373,
+                            "y": 2.9744
+                        }
+                    ],
+                    "span": {
+                        "offset": 313,
+                        "length": 7
+                    },
+                    "confidence": 0.581
+                },
+                {
+                    "content": "RD$241.10",
+                    "polygon": [
+                        {
+                            "x": 5.248,
+                            "y": 3.3468
+                        },
+                        {
+                            "x": 6.1362,
+                            "y": 3.3563
+                        },
+                        {
+                            "x": 6.1362,
+                            "y": 3.5664
+                        },
+                        {
+                            "x": 5.2433,
+                            "y": 3.5616
+                        }
+                    ],
+                    "span": {
+                        "offset": 321,
+                        "length": 9
+                    },
+                    "confidence": 0.985
+                },
+                {
+                    "content": "VISTA",
+                    "polygon": [
+                        {
+                            "x": 0.9073,
+                            "y": 3.9102
+                        },
+                        {
+                            "x": 1.2846,
+                            "y": 3.9102
+                        },
+                        {
+                            "x": 1.2846,
+                            "y": 4.0582
+                        },
+                        {
+                            "x": 0.9073,
+                            "y": 4.0534
+                        }
+                    ],
+                    "span": {
+                        "offset": 331,
+                        "length": 5
+                    },
+                    "confidence": 0.988
+                },
+                {
+                    "content": "PANOR\u00c1MICA",
+                    "polygon": [
+                        {
+                            "x": 1.3323,
+                            "y": 3.9102
+                        },
+                        {
+                            "x": 2.2396,
+                            "y": 3.9149
+                        },
+                        {
+                            "x": 2.2396,
+                            "y": 4.0677
+                        },
+                        {
+                            "x": 1.3323,
+                            "y": 4.0582
+                        }
+                    ],
+                    "span": {
+                        "offset": 337,
+                        "length": 10
+                    },
+                    "confidence": 0.97
+                },
+                {
+                    "content": "DE",
+                    "polygon": [
+                        {
+                            "x": 2.2874,
+                            "y": 3.9149
+                        },
+                        {
+                            "x": 2.4688,
+                            "y": 3.9149
+                        },
+                        {
+                            "x": 2.4688,
+                            "y": 4.0725
+                        },
+                        {
+                            "x": 2.2874,
+                            "y": 4.0677
+                        }
+                    ],
+                    "span": {
+                        "offset": 348,
+                        "length": 2
+                    },
+                    "confidence": 0.995
+                },
+                {
+                    "content": "LA",
+                    "polygon": [
+                        {
+                            "x": 2.507,
+                            "y": 3.9149
+                        },
+                        {
+                            "x": 2.6789,
+                            "y": 3.9197
+                        },
+                        {
+                            "x": 2.6742,
+                            "y": 4.0773
+                        },
+                        {
+                            "x": 2.507,
+                            "y": 4.0725
+                        }
+                    ],
+                    "span": {
+                        "offset": 351,
+                        "length": 2
+                    },
+                    "confidence": 0.995
+                },
+                {
+                    "content": "ESTACI\u00d3N",
+                    "polygon": [
+                        {
+                            "x": 2.7267,
+                            "y": 3.9197
+                        },
+                        {
+                            "x": 3.3952,
+                            "y": 3.9293
+                        },
+                        {
+                            "x": 3.3904,
+                            "y": 4.0868
+                        },
+                        {
+                            "x": 2.7267,
+                            "y": 4.0773
+                        }
+                    ],
+                    "span": {
+                        "offset": 354,
+                        "length": 8
+                    },
+                    "confidence": 0.972
+                },
+                {
+                    "content": "DE",
+                    "polygon": [
+                        {
+                            "x": 3.4525,
+                            "y": 3.934
+                        },
+                        {
+                            "x": 3.634,
+                            "y": 3.934
+                        },
+                        {
+                            "x": 3.6292,
+                            "y": 4.0868
+                        },
+                        {
+                            "x": 3.4525,
+                            "y": 4.0868
+                        }
+                    ],
+                    "span": {
+                        "offset": 363,
+                        "length": 2
+                    },
+                    "confidence": 0.995
+                },
+                {
+                    "content": "SERVICIO",
+                    "polygon": [
+                        {
+                            "x": 1.9579,
+                            "y": 4.0964
+                        },
+                        {
+                            "x": 2.55,
+                            "y": 4.1011
+                        },
+                        {
+                            "x": 2.55,
+                            "y": 4.2253
+                        },
+                        {
+                            "x": 1.9626,
+                            "y": 4.2157
+                        }
+                    ],
+                    "span": {
+                        "offset": 366,
+                        "length": 8
+                    },
+                    "confidence": 0.993
+                },
+                {
+                    "content": "=",
+                    "polygon": [
+                        {
+                            "x": 5.2098,
+                            "y": 3.7049
+                        },
+                        {
+                            "x": 5.2719,
+                            "y": 3.7049
+                        },
+                        {
+                            "x": 5.2719,
+                            "y": 3.8099
+                        },
+                        {
+                            "x": 5.2098,
+                            "y": 3.8099
+                        }
+                    ],
+                    "span": {
+                        "offset": 375,
+                        "length": 1
+                    },
+                    "confidence": 0.948
+                },
+                {
+                    "content": "Gasol",
+                    "polygon": [
+                        {
+                            "x": 5.9643,
+                            "y": 3.7096
+                        },
+                        {
+                            "x": 6.2031,
+                            "y": 3.7144
+                        },
+                        {
+                            "x": 6.2031,
+                            "y": 3.8147
+                        },
+                        {
+                            "x": 5.9643,
+                            "y": 3.8099
+                        }
+                    ],
+                    "span": {
+                        "offset": 377,
+                        "length": 5
+                    },
+                    "confidence": 0.54
+                },
+                {
+                    "content": "=",
+                    "polygon": [
+                        {
+                            "x": 6.652,
+                            "y": 3.724
+                        },
+                        {
+                            "x": 6.7188,
+                            "y": 3.724
+                        },
+                        {
+                            "x": 6.7188,
+                            "y": 3.8242
+                        },
+                        {
+                            "x": 6.652,
+                            "y": 3.8242
+                        }
+                    ],
+                    "span": {
+                        "offset": 383,
+                        "length": 1
+                    },
+                    "confidence": 0.927
+                },
+                {
+                    "content": "RD$221.60",
+                    "polygon": [
+                        {
+                            "x": 6.6854,
+                            "y": 3.3659
+                        },
+                        {
+                            "x": 7.6213,
+                            "y": 3.3754
+                        },
+                        {
+                            "x": 7.6213,
+                            "y": 3.5807
+                        },
+                        {
+                            "x": 6.6902,
+                            "y": 3.576
+                        }
+                    ],
+                    "span": {
+                        "offset": 385,
+                        "length": 9
+                    },
+                    "confidence": 0.994
+                },
+                {
+                    "content": "Gasell",
+                    "polygon": [
+                        {
+                            "x": 7.4256,
+                            "y": 3.724
+                        },
+                        {
+                            "x": 7.6691,
+                            "y": 3.7287
+                        },
+                        {
+                            "x": 7.6643,
+                            "y": 3.829
+                        },
+                        {
+                            "x": 7.4208,
+                            "y": 3.8242
+                        }
+                    ],
+                    "span": {
+                        "offset": 395,
+                        "length": 6
+                    },
+                    "confidence": 0.616
+                },
+                {
+                    "content": "COMPARACI\u00d3N",
+                    "polygon": [
+                        {
+                            "x": 4.8135,
+                            "y": 3.977
+                        },
+                        {
+                            "x": 5.7303,
+                            "y": 3.9818
+                        },
+                        {
+                            "x": 5.7351,
+                            "y": 4.125
+                        },
+                        {
+                            "x": 4.8183,
+                            "y": 4.1155
+                        }
+                    ],
+                    "span": {
+                        "offset": 402,
+                        "length": 11
+                    },
+                    "confidence": 0.992
+                },
+                {
+                    "content": "DE",
+                    "polygon": [
+                        {
+                            "x": 5.8067,
+                            "y": 3.9818
+                        },
+                        {
+                            "x": 5.9691,
+                            "y": 3.9818
+                        },
+                        {
+                            "x": 5.9739,
+                            "y": 4.125
+                        },
+                        {
+                            "x": 5.8067,
+                            "y": 4.125
+                        }
+                    ],
+                    "span": {
+                        "offset": 414,
+                        "length": 2
+                    },
+                    "confidence": 0.995
+                },
+                {
+                    "content": "PRECIOS",
+                    "polygon": [
+                        {
+                            "x": 6.0169,
+                            "y": 3.9818
+                        },
+                        {
+                            "x": 6.566,
+                            "y": 3.9913
+                        },
+                        {
+                            "x": 6.5708,
+                            "y": 4.1345
+                        },
+                        {
+                            "x": 6.0169,
+                            "y": 4.125
+                        }
+                    ],
+                    "span": {
+                        "offset": 417,
+                        "length": 7
+                    },
+                    "confidence": 0.972
+                },
+                {
+                    "content": "PUBLICADOS",
+                    "polygon": [
+                        {
+                            "x": 6.6138,
+                            "y": 3.9913
+                        },
+                        {
+                            "x": 7.4303,
+                            "y": 4.0056
+                        },
+                        {
+                            "x": 7.4303,
+                            "y": 4.1441
+                        },
+                        {
+                            "x": 6.6138,
+                            "y": 4.1345
+                        }
+                    ],
+                    "span": {
+                        "offset": 425,
+                        "length": 10
+                    },
+                    "confidence": 0.973
+                },
+                {
+                    "content": "POR",
+                    "polygon": [
+                        {
+                            "x": 7.4876,
+                            "y": 4.0104
+                        },
+                        {
+                            "x": 7.736,
+                            "y": 4.0152
+                        },
+                        {
+                            "x": 7.736,
+                            "y": 4.1489
+                        },
+                        {
+                            "x": 7.4876,
+                            "y": 4.1441
+                        }
+                    ],
+                    "span": {
+                        "offset": 436,
+                        "length": 3
+                    },
+                    "confidence": 0.989
+                },
+                {
+                    "content": "MICM",
+                    "polygon": [
+                        {
+                            "x": 4.9472,
+                            "y": 4.1393
+                        },
+                        {
+                            "x": 5.2385,
+                            "y": 4.1393
+                        },
+                        {
+                            "x": 5.2385,
+                            "y": 4.2682
+                        },
+                        {
+                            "x": 4.9472,
+                            "y": 4.2635
+                        }
+                    ],
+                    "span": {
+                        "offset": 440,
+                        "length": 4
+                    },
+                    "confidence": 0.961
+                },
+                {
+                    "content": "VS",
+                    "polygon": [
+                        {
+                            "x": 5.3197,
+                            "y": 4.1393
+                        },
+                        {
+                            "x": 5.4868,
+                            "y": 4.1393
+                        },
+                        {
+                            "x": 5.4868,
+                            "y": 4.273
+                        },
+                        {
+                            "x": 5.3197,
+                            "y": 4.2682
+                        }
+                    ],
+                    "span": {
+                        "offset": 445,
+                        "length": 2
+                    },
+                    "confidence": 0.994
+                },
+                {
+                    "content": "LOS",
+                    "polygon": [
+                        {
+                            "x": 5.5107,
+                            "y": 4.1393
+                        },
+                        {
+                            "x": 5.7733,
+                            "y": 4.1393
+                        },
+                        {
+                            "x": 5.7733,
+                            "y": 4.273
+                        },
+                        {
+                            "x": 5.5107,
+                            "y": 4.273
+                        }
+                    ],
+                    "span": {
+                        "offset": 448,
+                        "length": 3
+                    },
+                    "confidence": 0.993
+                },
+                {
+                    "content": "NO",
+                    "polygon": [
+                        {
+                            "x": 5.8067,
+                            "y": 4.1441
+                        },
+                        {
+                            "x": 5.9834,
+                            "y": 4.1441
+                        },
+                        {
+                            "x": 5.9834,
+                            "y": 4.2778
+                        },
+                        {
+                            "x": 5.8067,
+                            "y": 4.273
+                        }
+                    ],
+                    "span": {
+                        "offset": 452,
+                        "length": 2
+                    },
+                    "confidence": 0.995
+                },
+                {
+                    "content": "PUBLICADOS",
+                    "polygon": [
+                        {
+                            "x": 6.036,
+                            "y": 4.1441
+                        },
+                        {
+                            "x": 6.8478,
+                            "y": 4.1536
+                        },
+                        {
+                            "x": 6.8478,
+                            "y": 4.2873
+                        },
+                        {
+                            "x": 6.036,
+                            "y": 4.2778
+                        }
+                    ],
+                    "span": {
+                        "offset": 455,
+                        "length": 10
+                    },
+                    "confidence": 0.971
+                },
+                {
+                    "content": "POR",
+                    "polygon": [
+                        {
+                            "x": 6.9003,
+                            "y": 4.1536
+                        },
+                        {
+                            "x": 7.1534,
+                            "y": 4.1536
+                        },
+                        {
+                            "x": 7.1534,
+                            "y": 4.2921
+                        },
+                        {
+                            "x": 6.9003,
+                            "y": 4.2873
+                        }
+                    ],
+                    "span": {
+                        "offset": 466,
+                        "length": 3
+                    },
+                    "confidence": 0.995
+                },
+                {
+                    "content": "LA",
+                    "polygon": [
+                        {
+                            "x": 7.2154,
+                            "y": 4.1584
+                        },
+                        {
+                            "x": 7.373,
+                            "y": 4.1584
+                        },
+                        {
+                            "x": 7.373,
+                            "y": 4.2921
+                        },
+                        {
+                            "x": 7.2154,
+                            "y": 4.2921
+                        }
+                    ],
+                    "span": {
+                        "offset": 470,
+                        "length": 2
+                    },
+                    "confidence": 0.995
+                },
+                {
+                    "content": "E/S",
+                    "polygon": [
+                        {
+                            "x": 7.416,
+                            "y": 4.1584
+                        },
+                        {
+                            "x": 7.6118,
+                            "y": 4.1632
+                        },
+                        {
+                            "x": 7.6118,
+                            "y": 4.2969
+                        },
+                        {
+                            "x": 7.416,
+                            "y": 4.2969
+                        }
+                    ],
+                    "span": {
+                        "offset": 473,
+                        "length": 3
+                    },
+                    "confidence": 0.991
+                },
+                {
+                    "content": "MEDICI\u00d3N",
+                    "polygon": [
+                        {
+                            "x": 0.85,
+                            "y": 7.0517
+                        },
+                        {
+                            "x": 1.4947,
+                            "y": 7.0612
+                        },
+                        {
+                            "x": 1.4947,
+                            "y": 7.214
+                        },
+                        {
+                            "x": 0.8548,
+                            "y": 7.2044
+                        }
+                    ],
+                    "span": {
+                        "offset": 477,
+                        "length": 8
+                    },
+                    "confidence": 0.98
+                },
+                {
+                    "content": "DEL",
+                    "polygon": [
+                        {
+                            "x": 1.552,
+                            "y": 7.0612
+                        },
+                        {
+                            "x": 1.8146,
+                            "y": 7.066
+                        },
+                        {
+                            "x": 1.8194,
+                            "y": 7.214
+                        },
+                        {
+                            "x": 1.552,
+                            "y": 7.214
+                        }
+                    ],
+                    "span": {
+                        "offset": 486,
+                        "length": 3
+                    },
+                    "confidence": 0.993
+                },
+                {
+                    "content": "CORTE",
+                    "polygon": [
+                        {
+                            "x": 1.8624,
+                            "y": 7.066
+                        },
+                        {
+                            "x": 2.316,
+                            "y": 7.0755
+                        },
+                        {
+                            "x": 2.3208,
+                            "y": 7.2188
+                        },
+                        {
+                            "x": 1.8624,
+                            "y": 7.214
+                        }
+                    ],
+                    "span": {
+                        "offset": 490,
+                        "length": 5
+                    },
+                    "confidence": 0.993
+                },
+                {
+                    "content": "DE",
+                    "polygon": [
+                        {
+                            "x": 2.3638,
+                            "y": 7.0755
+                        },
+                        {
+                            "x": 2.5357,
+                            "y": 7.0803
+                        },
+                        {
+                            "x": 2.5357,
+                            "y": 7.2235
+                        },
+                        {
+                            "x": 2.3638,
+                            "y": 7.2188
+                        }
+                    ],
+                    "span": {
+                        "offset": 496,
+                        "length": 2
+                    },
+                    "confidence": 0.995
+                },
+                {
+                    "content": "AGUA",
+                    "polygon": [
+                        {
+                            "x": 2.593,
+                            "y": 7.0803
+                        },
+                        {
+                            "x": 2.9702,
+                            "y": 7.0898
+                        },
+                        {
+                            "x": 2.9702,
+                            "y": 7.2283
+                        },
+                        {
+                            "x": 2.593,
+                            "y": 7.2235
+                        }
+                    ],
+                    "span": {
+                        "offset": 499,
+                        "length": 4
+                    },
+                    "confidence": 0.983
+                },
+                {
+                    "content": "EN",
+                    "polygon": [
+                        {
+                            "x": 3.018,
+                            "y": 7.0898
+                        },
+                        {
+                            "x": 3.1803,
+                            "y": 7.0946
+                        },
+                        {
+                            "x": 3.1803,
+                            "y": 7.2283
+                        },
+                        {
+                            "x": 3.018,
+                            "y": 7.2283
+                        }
+                    ],
+                    "span": {
+                        "offset": 504,
+                        "length": 2
+                    },
+                    "confidence": 0.995
+                },
+                {
+                    "content": "LOS",
+                    "polygon": [
+                        {
+                            "x": 3.2472,
+                            "y": 7.0946
+                        },
+                        {
+                            "x": 3.5098,
+                            "y": 7.0994
+                        },
+                        {
+                            "x": 3.5098,
+                            "y": 7.2283
+                        },
+                        {
+                            "x": 3.2472,
+                            "y": 7.2283
+                        }
+                    ],
+                    "span": {
+                        "offset": 507,
+                        "length": 3
+                    },
+                    "confidence": 0.995
+                },
+                {
+                    "content": "TANQUES",
+                    "polygon": [
+                        {
+                            "x": 1.1126,
+                            "y": 7.2283
+                        },
+                        {
+                            "x": 1.743,
+                            "y": 7.2331
+                        },
+                        {
+                            "x": 1.743,
+                            "y": 7.3763
+                        },
+                        {
+                            "x": 1.1126,
+                            "y": 7.362
+                        }
+                    ],
+                    "span": {
+                        "offset": 511,
+                        "length": 7
+                    },
+                    "confidence": 0.994
+                },
+                {
+                    "content": "DE",
+                    "polygon": [
+                        {
+                            "x": 1.7955,
+                            "y": 7.2331
+                        },
+                        {
+                            "x": 1.9674,
+                            "y": 7.2331
+                        },
+                        {
+                            "x": 1.9674,
+                            "y": 7.3763
+                        },
+                        {
+                            "x": 1.7955,
+                            "y": 7.3763
+                        }
+                    ],
+                    "span": {
+                        "offset": 519,
+                        "length": 2
+                    },
+                    "confidence": 0.993
+                },
+                {
+                    "content": "ALMACENAMIENTO",
+                    "polygon": [
+                        {
+                            "x": 2.0199,
+                            "y": 7.2378
+                        },
+                        {
+                            "x": 3.252,
+                            "y": 7.2569
+                        },
+                        {
+                            "x": 3.252,
+                            "y": 7.3859
+                        },
+                        {
+                            "x": 2.0199,
+                            "y": 7.3763
+                        }
+                    ],
+                    "span": {
+                        "offset": 522,
+                        "length": 14
+                    },
+                    "confidence": 0.988
+                },
+                {
+                    "content": "PROCESO",
+                    "polygon": [
+                        {
+                            "x": 4.6034,
+                            "y": 7.1471
+                        },
+                        {
+                            "x": 5.2433,
+                            "y": 7.1519
+                        },
+                        {
+                            "x": 5.2433,
+                            "y": 7.2904
+                        },
+                        {
+                            "x": 4.6034,
+                            "y": 7.2808
+                        }
+                    ],
+                    "span": {
+                        "offset": 537,
+                        "length": 7
+                    },
+                    "confidence": 0.993
+                },
+                {
+                    "content": "DE",
+                    "polygon": [
+                        {
+                            "x": 5.3053,
+                            "y": 7.1567
+                        },
+                        {
+                            "x": 5.482,
+                            "y": 7.1567
+                        },
+                        {
+                            "x": 5.482,
+                            "y": 7.2904
+                        },
+                        {
+                            "x": 5.3101,
+                            "y": 7.2904
+                        }
+                    ],
+                    "span": {
+                        "offset": 545,
+                        "length": 2
+                    },
+                    "confidence": 0.996
+                },
+                {
+                    "content": "MUESTREO",
+                    "polygon": [
+                        {
+                            "x": 5.525,
+                            "y": 7.1567
+                        },
+                        {
+                            "x": 6.2699,
+                            "y": 7.1662
+                        },
+                        {
+                            "x": 6.2699,
+                            "y": 7.3047
+                        },
+                        {
+                            "x": 5.5298,
+                            "y": 7.2951
+                        }
+                    ],
+                    "span": {
+                        "offset": 548,
+                        "length": 8
+                    },
+                    "confidence": 0.981
+                },
+                {
+                    "content": "DE",
+                    "polygon": [
+                        {
+                            "x": 6.3225,
+                            "y": 7.1662
+                        },
+                        {
+                            "x": 6.4992,
+                            "y": 7.1662
+                        },
+                        {
+                            "x": 6.4992,
+                            "y": 7.3095
+                        },
+                        {
+                            "x": 6.3272,
+                            "y": 7.3047
+                        }
+                    ],
+                    "span": {
+                        "offset": 557,
+                        "length": 2
+                    },
+                    "confidence": 0.994
+                },
+                {
+                    "content": "LOS",
+                    "polygon": [
+                        {
+                            "x": 6.5421,
+                            "y": 7.1662
+                        },
+                        {
+                            "x": 6.8191,
+                            "y": 7.171
+                        },
+                        {
+                            "x": 6.8191,
+                            "y": 7.3142
+                        },
+                        {
+                            "x": 6.5469,
+                            "y": 7.3095
+                        }
+                    ],
+                    "span": {
+                        "offset": 560,
+                        "length": 3
+                    },
+                    "confidence": 0.995
+                },
+                {
+                    "content": "TANQUES",
+                    "polygon": [
+                        {
+                            "x": 6.8669,
+                            "y": 7.171
+                        },
+                        {
+                            "x": 7.5067,
+                            "y": 7.1806
+                        },
+                        {
+                            "x": 7.5067,
+                            "y": 7.3238
+                        },
+                        {
+                            "x": 6.8669,
+                            "y": 7.3142
+                        }
+                    ],
+                    "span": {
+                        "offset": 564,
+                        "length": 7
+                    },
+                    "confidence": 0.995
+                },
+                {
+                    "content": "DE",
+                    "polygon": [
+                        {
+                            "x": 7.5545,
+                            "y": 7.1806
+                        },
+                        {
+                            "x": 7.7169,
+                            "y": 7.1806
+                        },
+                        {
+                            "x": 7.7169,
+                            "y": 7.3286
+                        },
+                        {
+                            "x": 7.5545,
+                            "y": 7.3238
+                        }
+                    ],
+                    "span": {
+                        "offset": 572,
+                        "length": 2
+                    },
+                    "confidence": 0.996
+                },
+                {
+                    "content": "ALMACENAMIENTO",
+                    "polygon": [
+                        {
+                            "x": 5.5441,
+                            "y": 7.3238
+                        },
+                        {
+                            "x": 6.7666,
+                            "y": 7.3333
+                        },
+                        {
+                            "x": 6.7666,
+                            "y": 7.467
+                        },
+                        {
+                            "x": 5.5441,
+                            "y": 7.4575
+                        }
+                    ],
+                    "span": {
+                        "offset": 575,
+                        "length": 14
+                    },
+                    "confidence": 0.992
+                },
+                {
+                    "content": "0012406",
+                    "polygon": [
+                        {
+                            "x": 6.2222,
+                            "y": 8.947
+                        },
+                        {
+                            "x": 6.8573,
+                            "y": 8.9852
+                        },
+                        {
+                            "x": 6.8525,
+                            "y": 9.0855
+                        },
+                        {
+                            "x": 6.2222,
+                            "y": 9.0378
+                        }
+                    ],
+                    "span": {
+                        "offset": 590,
+                        "length": 7
+                    },
+                    "confidence": 0.579
+                },
+                {
+                    "content": "PROCESO",
+                    "polygon": [
+                        {
+                            "x": 0.659,
+                            "y": 10.1836
+                        },
+                        {
+                            "x": 1.3037,
+                            "y": 10.1931
+                        },
+                        {
+                            "x": 1.3037,
+                            "y": 10.3316
+                        },
+                        {
+                            "x": 0.659,
+                            "y": 10.322
+                        }
+                    ],
+                    "span": {
+                        "offset": 598,
+                        "length": 7
+                    },
+                    "confidence": 0.993
+                },
+                {
+                    "content": "DE",
+                    "polygon": [
+                        {
+                            "x": 1.361,
+                            "y": 10.1931
+                        },
+                        {
+                            "x": 1.5329,
+                            "y": 10.1979
+                        },
+                        {
+                            "x": 1.5329,
+                            "y": 10.3364
+                        },
+                        {
+                            "x": 1.361,
+                            "y": 10.3316
+                        }
+                    ],
+                    "span": {
+                        "offset": 606,
+                        "length": 2
+                    },
+                    "confidence": 0.996
+                },
+                {
+                    "content": "MUESTREO",
+                    "polygon": [
+                        {
+                            "x": 1.5806,
+                            "y": 10.1979
+                        },
+                        {
+                            "x": 2.3208,
+                            "y": 10.2122
+                        },
+                        {
+                            "x": 2.3208,
+                            "y": 10.3507
+                        },
+                        {
+                            "x": 1.5806,
+                            "y": 10.3364
+                        }
+                    ],
+                    "span": {
+                        "offset": 609,
+                        "length": 8
+                    },
+                    "confidence": 0.993
+                },
+                {
+                    "content": "DE",
+                    "polygon": [
+                        {
+                            "x": 2.3781,
+                            "y": 10.2122
+                        },
+                        {
+                            "x": 2.55,
+                            "y": 10.2122
+                        },
+                        {
+                            "x": 2.55,
+                            "y": 10.3555
+                        },
+                        {
+                            "x": 2.3781,
+                            "y": 10.3507
+                        }
+                    ],
+                    "span": {
+                        "offset": 618,
+                        "length": 2
+                    },
+                    "confidence": 0.995
+                },
+                {
+                    "content": "LOS",
+                    "polygon": [
+                        {
+                            "x": 2.5978,
+                            "y": 10.217
+                        },
+                        {
+                            "x": 2.8699,
+                            "y": 10.2218
+                        },
+                        {
+                            "x": 2.8699,
+                            "y": 10.3602
+                        },
+                        {
+                            "x": 2.5978,
+                            "y": 10.3555
+                        }
+                    ],
+                    "span": {
+                        "offset": 621,
+                        "length": 3
+                    },
+                    "confidence": 0.992
+                },
+                {
+                    "content": "TANQUES",
+                    "polygon": [
+                        {
+                            "x": 2.9272,
+                            "y": 10.2218
+                        },
+                        {
+                            "x": 3.5576,
+                            "y": 10.2313
+                        },
+                        {
+                            "x": 3.5576,
+                            "y": 10.3746
+                        },
+                        {
+                            "x": 2.9272,
+                            "y": 10.3602
+                        }
+                    ],
+                    "span": {
+                        "offset": 625,
+                        "length": 7
+                    },
+                    "confidence": 0.98
+                },
+                {
+                    "content": "DE",
+                    "polygon": [
+                        {
+                            "x": 3.6053,
+                            "y": 10.2313
+                        },
+                        {
+                            "x": 3.7677,
+                            "y": 10.2361
+                        },
+                        {
+                            "x": 3.7677,
+                            "y": 10.3793
+                        },
+                        {
+                            "x": 3.6053,
+                            "y": 10.3746
+                        }
+                    ],
+                    "span": {
+                        "offset": 633,
+                        "length": 2
+                    },
+                    "confidence": 0.995
+                },
+                {
+                    "content": "ALMACENAMIENTO",
+                    "polygon": [
+                        {
+                            "x": 1.5949,
+                            "y": 10.365
+                        },
+                        {
+                            "x": 2.8222,
+                            "y": 10.3841
+                        },
+                        {
+                            "x": 2.8222,
+                            "y": 10.513
+                        },
+                        {
+                            "x": 1.5949,
+                            "y": 10.4939
+                        }
+                    ],
+                    "span": {
+                        "offset": 636,
+                        "length": 14
+                    },
+                    "confidence": 0.99
+                },
+                {
+                    "content": "N\u00ba",
+                    "polygon": [
+                        {
+                            "x": 4.7562,
+                            "y": 10.2934
+                        },
+                        {
+                            "x": 4.9138,
+                            "y": 10.2934
+                        },
+                        {
+                            "x": 4.9138,
+                            "y": 10.4319
+                        },
+                        {
+                            "x": 4.7562,
+                            "y": 10.4271
+                        }
+                    ],
+                    "span": {
+                        "offset": 651,
+                        "length": 2
+                    },
+                    "confidence": 0.553
+                },
+                {
+                    "content": "DE",
+                    "polygon": [
+                        {
+                            "x": 4.9424,
+                            "y": 10.2934
+                        },
+                        {
+                            "x": 5.1096,
+                            "y": 10.2934
+                        },
+                        {
+                            "x": 5.1143,
+                            "y": 10.4319
+                        },
+                        {
+                            "x": 4.9424,
+                            "y": 10.4319
+                        }
+                    ],
+                    "span": {
+                        "offset": 654,
+                        "length": 2
+                    },
+                    "confidence": 0.995
+                },
+                {
+                    "content": "SELLO",
+                    "polygon": [
+                        {
+                            "x": 5.1716,
+                            "y": 10.2982
+                        },
+                        {
+                            "x": 5.5823,
+                            "y": 10.303
+                        },
+                        {
+                            "x": 5.5823,
+                            "y": 10.4366
+                        },
+                        {
+                            "x": 5.1764,
+                            "y": 10.4319
+                        }
+                    ],
+                    "span": {
+                        "offset": 657,
+                        "length": 5
+                    },
+                    "confidence": 0.994
+                },
+                {
+                    "content": "DE",
+                    "polygon": [
+                        {
+                            "x": 5.6539,
+                            "y": 10.303
+                        },
+                        {
+                            "x": 5.8211,
+                            "y": 10.303
+                        },
+                        {
+                            "x": 5.8258,
+                            "y": 10.4414
+                        },
+                        {
+                            "x": 5.6539,
+                            "y": 10.4366
+                        }
+                    ],
+                    "span": {
+                        "offset": 663,
+                        "length": 2
+                    },
+                    "confidence": 0.995
+                },
+                {
+                    "content": "LAS",
+                    "polygon": [
+                        {
+                            "x": 5.8784,
+                            "y": 10.3077
+                        },
+                        {
+                            "x": 6.1362,
+                            "y": 10.3077
+                        },
+                        {
+                            "x": 6.1362,
+                            "y": 10.4462
+                        },
+                        {
+                            "x": 5.8784,
+                            "y": 10.4414
+                        }
+                    ],
+                    "span": {
+                        "offset": 666,
+                        "length": 3
+                    },
+                    "confidence": 0.995
+                },
+                {
+                    "content": "MUESTRAS",
+                    "polygon": [
+                        {
+                            "x": 6.1792,
+                            "y": 10.3125
+                        },
+                        {
+                            "x": 6.9242,
+                            "y": 10.322
+                        },
+                        {
+                            "x": 6.9289,
+                            "y": 10.4557
+                        },
+                        {
+                            "x": 6.1792,
+                            "y": 10.4462
+                        }
+                    ],
+                    "span": {
+                        "offset": 670,
+                        "length": 8
+                    },
+                    "confidence": 0.979
+                },
+                {
+                    "content": "RETENIDAS",
+                    "polygon": [
+                        {
+                            "x": 5.6348,
+                            "y": 10.451
+                        },
+                        {
+                            "x": 6.4228,
+                            "y": 10.4557
+                        },
+                        {
+                            "x": 6.418,
+                            "y": 10.6133
+                        },
+                        {
+                            "x": 5.6301,
+                            "y": 10.6085
+                        }
+                    ],
+                    "span": {
+                        "offset": 679,
+                        "length": 9
+                    },
+                    "confidence": 0.961
+                }
+            ],
+            "selection_marks": [],
+            "spans": [
+                {
+                    "offset": 0,
+                    "length": 688
+                }
+            ],
+            "barcodes": [],
+            "formulas": []
+        }
+    ],
+    "paragraphs": [
+        {
+            "role": null,
+            "content": "aivepet",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 0.5027,
+                            "y": 0.7591
+                        },
+                        {
+                            "x": 1.0805,
+                            "y": 0.7639
+                        },
+                        {
+                            "x": 1.0792,
+                            "y": 0.9214
+                        },
+                        {
+                            "x": 0.5014,
+                            "y": 0.9167
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 0,
+                    "length": 7
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "AMVEPET, S.R.L -REP. DOMINICANA Reporte Fotogr\u00e1fico Ref. AMVEPET: 2023 03 169 Fecha de Inspecci\u00f3n: 30/03/2023 E/S TEXACO FRANCO BID\u00d3 AV. JUAN PABLO DUARTE No.65, SANTIAGO DE LOS CABALLEROS",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 2.3198,
+                            "y": 0.23
+                        },
+                        {
+                            "x": 6.3787,
+                            "y": 0.2874
+                        },
+                        {
+                            "x": 6.3632,
+                            "y": 1.3846
+                        },
+                        {
+                            "x": 2.3042,
+                            "y": 1.3272
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 8,
+                    "length": 188
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "Precios de los combustibles",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 5.5584,
+                            "y": 1.5612
+                        },
+                        {
+                            "x": 7.766,
+                            "y": 1.5755
+                        },
+                        {
+                            "x": 7.7646,
+                            "y": 1.7951
+                        },
+                        {
+                            "x": 5.557,
+                            "y": 1.7808
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 197,
+                    "length": 27
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "SEMANA DEL 25 AL 31",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 6.7284,
+                            "y": 1.8859
+                        },
+                        {
+                            "x": 7.7646,
+                            "y": 1.8954
+                        },
+                        {
+                            "x": 7.7646,
+                            "y": 2.0291
+                        },
+                        {
+                            "x": 6.7284,
+                            "y": 2.0195
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 225,
+                    "length": 19
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "DE MARZO DEL 2023",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 6.7666,
+                            "y": 2.0386
+                        },
+                        {
+                            "x": 7.7598,
+                            "y": 2.053
+                        },
+                        {
+                            "x": 7.7598,
+                            "y": 2.1819
+                        },
+                        {
+                            "x": 6.7666,
+                            "y": 2.1675
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 245,
+                    "length": 17
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "RD$293.60",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 5.1382,
+                            "y": 2.2248
+                        },
+                        {
+                            "x": 6.2938,
+                            "y": 2.2487
+                        },
+                        {
+                            "x": 6.289,
+                            "y": 2.6211
+                        },
+                        {
+                            "x": 5.1334,
+                            "y": 2.5972
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 263,
+                    "length": 9
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "RD$274.50",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 6.2938,
+                            "y": 2.2487
+                        },
+                        {
+                            "x": 7.7503,
+                            "y": 2.2678
+                        },
+                        {
+                            "x": 7.7455,
+                            "y": 2.6402
+                        },
+                        {
+                            "x": 6.289,
+                            "y": 2.6211
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 273,
+                    "length": 9
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "= Gasolina",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 5.1334,
+                            "y": 2.5972
+                        },
+                        {
+                            "x": 6.289,
+                            "y": 2.6211
+                        },
+                        {
+                            "x": 6.289,
+                            "y": 2.8503
+                        },
+                        {
+                            "x": 5.1334,
+                            "y": 2.8359
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 283,
+                    "length": 10
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "= Gasolina",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 6.289,
+                            "y": 2.6211
+                        },
+                        {
+                            "x": 7.7455,
+                            "y": 2.6402
+                        },
+                        {
+                            "x": 7.7407,
+                            "y": 2.8741
+                        },
+                        {
+                            "x": 6.289,
+                            "y": 2.8503
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 294,
+                    "length": 10
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "Pr\u00e9mium",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 5.1334,
+                            "y": 2.8359
+                        },
+                        {
+                            "x": 6.289,
+                            "y": 2.8503
+                        },
+                        {
+                            "x": 6.2843,
+                            "y": 3.0221
+                        },
+                        {
+                            "x": 5.1334,
+                            "y": 3.003
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 305,
+                    "length": 7
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "Regular",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 6.289,
+                            "y": 2.8503
+                        },
+                        {
+                            "x": 7.7407,
+                            "y": 2.8741
+                        },
+                        {
+                            "x": 7.7407,
+                            "y": 3.0412
+                        },
+                        {
+                            "x": 6.2843,
+                            "y": 3.0221
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 313,
+                    "length": 7
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "RD$241.10",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 5.2396,
+                            "y": 3.3468
+                        },
+                        {
+                            "x": 6.1601,
+                            "y": 3.3516
+                        },
+                        {
+                            "x": 6.159,
+                            "y": 3.5617
+                        },
+                        {
+                            "x": 5.2385,
+                            "y": 3.5569
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 321,
+                    "length": 9
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "VISTA PANOR\u00c1MICA DE LA ESTACI\u00d3N DE SERVICIO",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 0.8978,
+                            "y": 3.9054
+                        },
+                        {
+                            "x": 3.6592,
+                            "y": 3.9293
+                        },
+                        {
+                            "x": 3.6566,
+                            "y": 4.2305
+                        },
+                        {
+                            "x": 0.8951,
+                            "y": 4.2066
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 331,
+                    "length": 43
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "=",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 5.2051,
+                            "y": 3.7049
+                        },
+                        {
+                            "x": 5.3053,
+                            "y": 3.7049
+                        },
+                        {
+                            "x": 5.3053,
+                            "y": 3.8099
+                        },
+                        {
+                            "x": 5.2051,
+                            "y": 3.8099
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 375,
+                    "length": 1
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "Gasol",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 5.9596,
+                            "y": 3.7096
+                        },
+                        {
+                            "x": 6.2126,
+                            "y": 3.7144
+                        },
+                        {
+                            "x": 6.2126,
+                            "y": 3.8147
+                        },
+                        {
+                            "x": 5.9596,
+                            "y": 3.8099
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 377,
+                    "length": 5
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "=",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 6.652,
+                            "y": 3.724
+                        },
+                        {
+                            "x": 6.7427,
+                            "y": 3.724
+                        },
+                        {
+                            "x": 6.7427,
+                            "y": 3.8242
+                        },
+                        {
+                            "x": 6.652,
+                            "y": 3.8242
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 383,
+                    "length": 1
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "RD$221.60",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 6.6854,
+                            "y": 3.3659
+                        },
+                        {
+                            "x": 7.6357,
+                            "y": 3.3707
+                        },
+                        {
+                            "x": 7.6357,
+                            "y": 3.5807
+                        },
+                        {
+                            "x": 6.6854,
+                            "y": 3.5712
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 385,
+                    "length": 9
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "Gasell",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 7.4065,
+                            "y": 3.724
+                        },
+                        {
+                            "x": 7.6691,
+                            "y": 3.7287
+                        },
+                        {
+                            "x": 7.6691,
+                            "y": 3.829
+                        },
+                        {
+                            "x": 7.4112,
+                            "y": 3.8242
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 395,
+                    "length": 6
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "COMPARACI\u00d3N DE PRECIOS PUBLICADOS POR MICM VS LOS NO PUBLICADOS POR LA E/S",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 4.8039,
+                            "y": 3.9722
+                        },
+                        {
+                            "x": 7.7662,
+                            "y": 4.0057
+                        },
+                        {
+                            "x": 7.7629,
+                            "y": 4.2953
+                        },
+                        {
+                            "x": 4.8007,
+                            "y": 4.2619
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 402,
+                    "length": 74
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "MEDICI\u00d3N DEL CORTE DE AGUA EN LOS TANQUES DE ALMACENAMIENTO",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 0.85,
+                            "y": 7.0517
+                        },
+                        {
+                            "x": 3.5259,
+                            "y": 7.0851
+                        },
+                        {
+                            "x": 3.5221,
+                            "y": 7.3923
+                        },
+                        {
+                            "x": 0.8462,
+                            "y": 7.3589
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 477,
+                    "length": 59
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "PROCESO DE MUESTREO DE LOS TANQUES DE ALMACENAMIENTO",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 4.5986,
+                            "y": 7.1471
+                        },
+                        {
+                            "x": 7.7407,
+                            "y": 7.1806
+                        },
+                        {
+                            "x": 7.7376,
+                            "y": 7.4762
+                        },
+                        {
+                            "x": 4.5954,
+                            "y": 7.4428
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 537,
+                    "length": 52
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "0012406",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 6.2031,
+                            "y": 8.9423
+                        },
+                        {
+                            "x": 6.9013,
+                            "y": 8.9805
+                        },
+                        {
+                            "x": 6.8955,
+                            "y": 9.0855
+                        },
+                        {
+                            "x": 6.1973,
+                            "y": 9.0473
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 590,
+                    "length": 7
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "PROCESO DE MUESTREO DE LOS TANQUES DE ALMACENAMIENTO",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 0.6542,
+                            "y": 10.1788
+                        },
+                        {
+                            "x": 3.8011,
+                            "y": 10.2313
+                        },
+                        {
+                            "x": 3.7962,
+                            "y": 10.5262
+                        },
+                        {
+                            "x": 0.6493,
+                            "y": 10.4737
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 598,
+                    "length": 52
+                }
+            ]
+        },
+        {
+            "role": null,
+            "content": "N\u00ba DE SELLO DE LAS MUESTRAS RETENIDAS",
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 4.7562,
+                            "y": 10.2886
+                        },
+                        {
+                            "x": 6.9402,
+                            "y": 10.3173
+                        },
+                        {
+                            "x": 6.9362,
+                            "y": 10.6258
+                        },
+                        {
+                            "x": 4.7521,
+                            "y": 10.5972
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 651,
+                    "length": 37
+                }
+            ]
+        }
+    ],
+    "tables": [
+        {
+            "row_count": 3,
+            "column_count": 2,
+            "cells": [
+                {
+                    "kind": "content",
+                    "row_index": 0,
+                    "column_index": 0,
+                    "row_span": 1,
+                    "column_span": 1,
+                    "content": "RD$293.60",
+                    "bounding_regions": [
+                        {
+                            "page_number": 1,
+                            "polygon": [
+                                {
+                                    "x": 5.1382,
+                                    "y": 2.2248
+                                },
+                                {
+                                    "x": 6.2938,
+                                    "y": 2.2487
+                                },
+                                {
+                                    "x": 6.289,
+                                    "y": 2.6211
+                                },
+                                {
+                                    "x": 5.1334,
+                                    "y": 2.5972
+                                }
+                            ]
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 263,
+                            "length": 9
+                        }
+                    ]
+                },
+                {
+                    "kind": "content",
+                    "row_index": 0,
+                    "column_index": 1,
+                    "row_span": 1,
+                    "column_span": 1,
+                    "content": "RD$274.50",
+                    "bounding_regions": [
+                        {
+                            "page_number": 1,
+                            "polygon": [
+                                {
+                                    "x": 6.2938,
+                                    "y": 2.2487
+                                },
+                                {
+                                    "x": 7.7503,
+                                    "y": 2.2678
+                                },
+                                {
+                                    "x": 7.7455,
+                                    "y": 2.6402
+                                },
+                                {
+                                    "x": 6.289,
+                                    "y": 2.6211
+                                }
+                            ]
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 273,
+                            "length": 9
+                        }
+                    ]
+                },
+                {
+                    "kind": "content",
+                    "row_index": 1,
+                    "column_index": 0,
+                    "row_span": 1,
+                    "column_span": 1,
+                    "content": "= Gasolina",
+                    "bounding_regions": [
+                        {
+                            "page_number": 1,
+                            "polygon": [
+                                {
+                                    "x": 5.1334,
+                                    "y": 2.5972
+                                },
+                                {
+                                    "x": 6.289,
+                                    "y": 2.6211
+                                },
+                                {
+                                    "x": 6.289,
+                                    "y": 2.8503
+                                },
+                                {
+                                    "x": 5.1334,
+                                    "y": 2.8359
+                                }
+                            ]
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 283,
+                            "length": 10
+                        }
+                    ]
+                },
+                {
+                    "kind": "content",
+                    "row_index": 1,
+                    "column_index": 1,
+                    "row_span": 1,
+                    "column_span": 1,
+                    "content": "= Gasolina",
+                    "bounding_regions": [
+                        {
+                            "page_number": 1,
+                            "polygon": [
+                                {
+                                    "x": 6.289,
+                                    "y": 2.6211
+                                },
+                                {
+                                    "x": 7.7455,
+                                    "y": 2.6402
+                                },
+                                {
+                                    "x": 7.7407,
+                                    "y": 2.8741
+                                },
+                                {
+                                    "x": 6.289,
+                                    "y": 2.8503
+                                }
+                            ]
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 294,
+                            "length": 10
+                        }
+                    ]
+                },
+                {
+                    "kind": "content",
+                    "row_index": 2,
+                    "column_index": 0,
+                    "row_span": 1,
+                    "column_span": 1,
+                    "content": "Pr\u00e9mium",
+                    "bounding_regions": [
+                        {
+                            "page_number": 1,
+                            "polygon": [
+                                {
+                                    "x": 5.1334,
+                                    "y": 2.8359
+                                },
+                                {
+                                    "x": 6.289,
+                                    "y": 2.8503
+                                },
+                                {
+                                    "x": 6.2843,
+                                    "y": 3.0221
+                                },
+                                {
+                                    "x": 5.1334,
+                                    "y": 3.003
+                                }
+                            ]
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 305,
+                            "length": 7
+                        }
+                    ]
+                },
+                {
+                    "kind": "content",
+                    "row_index": 2,
+                    "column_index": 1,
+                    "row_span": 1,
+                    "column_span": 1,
+                    "content": "Regular",
+                    "bounding_regions": [
+                        {
+                            "page_number": 1,
+                            "polygon": [
+                                {
+                                    "x": 6.289,
+                                    "y": 2.8503
+                                },
+                                {
+                                    "x": 7.7407,
+                                    "y": 2.8741
+                                },
+                                {
+                                    "x": 7.7407,
+                                    "y": 3.0412
+                                },
+                                {
+                                    "x": 6.2843,
+                                    "y": 3.0221
+                                }
+                            ]
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 313,
+                            "length": 7
+                        }
+                    ]
+                }
+            ],
+            "bounding_regions": [
+                {
+                    "page_number": 1,
+                    "polygon": [
+                        {
+                            "x": 5.1855,
+                            "y": 2.3087
+                        },
+                        {
+                            "x": 7.7338,
+                            "y": 2.3201
+                        },
+                        {
+                            "x": 7.7337,
+                            "y": 3.0499
+                        },
+                        {
+                            "x": 5.1856,
+                            "y": 3.0386
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 263,
+                    "length": 57
+                }
+            ]
+        }
+    ],
+    "key_value_pairs": [
+        {
+            "key": {
+                "content": "Ref. AMVEPET:",
+                "bounding_regions": [
+                    {
+                        "page_number": 1,
+                        "polygon": [
+                            {
+                                "x": 3.5721,
+                                "y": 0.6514
+                            },
+                            {
+                                "x": 4.406,
+                                "y": 0.6685
+                            },
+                            {
+                                "x": 4.4027,
+                                "y": 0.8287
+                            },
+                            {
+                                "x": 3.5688,
+                                "y": 0.8116
+                            }
+                        ]
+                    }
+                ],
+                "spans": [
+                    {
+                        "offset": 60,
+                        "length": 13
+                    }
+                ]
+            },
+            "value": {
+                "content": "2023 03 169",
+                "bounding_regions": [
+                    {
+                        "page_number": 1,
+                        "polygon": [
+                            {
+                                "x": 4.4315,
+                                "y": 0.667
+                            },
+                            {
+                                "x": 5.1263,
+                                "y": 0.678
+                            },
+                            {
+                                "x": 5.1238,
+                                "y": 0.8377
+                            },
+                            {
+                                "x": 4.429,
+                                "y": 0.8266
+                            }
+                        ]
+                    }
+                ],
+                "spans": [
+                    {
+                        "offset": 74,
+                        "length": 11
+                    }
+                ]
+            },
+            "confidence": 0.884
+        },
+        {
+            "key": {
+                "content": "Fecha de Inspecci\u00f3n:",
+                "bounding_regions": [
+                    {
+                        "page_number": 1,
+                        "polygon": [
+                            {
+                                "x": 3.4049,
+                                "y": 0.8318
+                            },
+                            {
+                                "x": 4.6582,
+                                "y": 0.8498
+                            },
+                            {
+                                "x": 4.6558,
+                                "y": 1.0184
+                            },
+                            {
+                                "x": 3.4025,
+                                "y": 1.0003
+                            }
+                        ]
+                    }
+                ],
+                "spans": [
+                    {
+                        "offset": 86,
+                        "length": 20
+                    }
+                ]
+            },
+            "value": {
+                "content": "30/03/2023",
+                "bounding_regions": [
+                    {
+                        "page_number": 1,
+                        "polygon": [
+                            {
+                                "x": 4.6846,
+                                "y": 0.8498
+                            },
+                            {
+                                "x": 5.3149,
+                                "y": 0.8594
+                            },
+                            {
+                                "x": 5.3149,
+                                "y": 1.0074
+                            },
+                            {
+                                "x": 4.6846,
+                                "y": 1.0122
+                            }
+                        ]
+                    }
+                ],
+                "spans": [
+                    {
+                        "offset": 107,
+                        "length": 10
+                    }
+                ]
+            },
+            "confidence": 0.891
+        },
+        {
+            "key": {
+                "content": "Pr\u00e9mium",
+                "bounding_regions": [
+                    {
+                        "page_number": 1,
+                        "polygon": [
+                            {
+                                "x": 5.8688,
+                                "y": 2.8598
+                            },
+                            {
+                                "x": 6.1888,
+                                "y": 2.8598
+                            },
+                            {
+                                "x": 6.1888,
+                                "y": 2.9601
+                            },
+                            {
+                                "x": 5.8688,
+                                "y": 2.9505
+                            }
+                        ]
+                    }
+                ],
+                "spans": [
+                    {
+                        "offset": 305,
+                        "length": 7
+                    }
+                ]
+            },
+            "value": {
+                "content": "RD$293.60\nRD$274.50",
+                "bounding_regions": [
+                    {
+                        "page_number": 1,
+                        "polygon": [
+                            {
+                                "x": 5.217,
+                                "y": 2.3393
+                            },
+                            {
+                                "x": 7.6597,
+                                "y": 2.3633
+                            },
+                            {
+                                "x": 7.6574,
+                                "y": 2.6022
+                            },
+                            {
+                                "x": 5.2146,
+                                "y": 2.5781
+                            }
+                        ]
+                    }
+                ],
+                "spans": [
+                    {
+                        "offset": 263,
+                        "length": 19
+                    }
+                ]
+            },
+            "confidence": 0.349
+        },
+        {
+            "key": {
+                "content": "Regular",
+                "bounding_regions": [
+                    {
+                        "page_number": 1,
+                        "polygon": [
+                            {
+                                "x": 7.373,
+                                "y": 2.8741
+                            },
+                            {
+                                "x": 7.6643,
+                                "y": 2.8837
+                            },
+                            {
+                                "x": 7.6643,
+                                "y": 2.9839
+                            },
+                            {
+                                "x": 7.373,
+                                "y": 2.9744
+                            }
+                        ]
+                    }
+                ],
+                "spans": [
+                    {
+                        "offset": 313,
+                        "length": 7
+                    }
+                ]
+            },
+            "value": null,
+            "confidence": 0.25
+        },
+        {
+            "key": {
+                "content": "Gasol",
+                "bounding_regions": [
+                    {
+                        "page_number": 1,
+                        "polygon": [
+                            {
+                                "x": 5.9643,
+                                "y": 3.7096
+                            },
+                            {
+                                "x": 6.2031,
+                                "y": 3.7144
+                            },
+                            {
+                                "x": 6.2031,
+                                "y": 3.8147
+                            },
+                            {
+                                "x": 5.9643,
+                                "y": 3.8099
+                            }
+                        ]
+                    }
+                ],
+                "spans": [
+                    {
+                        "offset": 377,
+                        "length": 5
+                    }
+                ]
+            },
+            "value": {
+                "content": "RD$241.10\nRD$221.60",
+                "bounding_regions": [
+                    {
+                        "page_number": 1,
+                        "polygon": [
+                            {
+                                "x": 5.245,
+                                "y": 3.3468
+                            },
+                            {
+                                "x": 7.623,
+                                "y": 3.3659
+                            },
+                            {
+                                "x": 7.6213,
+                                "y": 3.5835
+                            },
+                            {
+                                "x": 5.2433,
+                                "y": 3.5644
+                            }
+                        ]
+                    }
+                ],
+                "spans": [
+                    {
+                        "offset": 321,
+                        "length": 9
+                    },
+                    {
+                        "offset": 385,
+                        "length": 9
+                    }
+                ]
+            },
+            "confidence": 0.268
+        }
+    ],
+    "styles": [],
+    "documents": []
+}
